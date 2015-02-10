@@ -3,9 +3,14 @@
  */
 
 body {
-    font-family: Georgia, "Times New Roman", Times, serif;
     color: #555;
+    font-family: 'Merriweather', "Georgia", "Times New Roman", Times, serif;
 }
+
+code {
+    font-family: 'Droid Serif', serif;
+}
+
 
 h1, .h1,
 h2, .h2,
@@ -14,7 +19,7 @@ h4, .h4,
 h5, .h5,
 h6, .h6 {
     margin-top: 0;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: 'Merriweather', "Georgia", "Times New Roman", Times, serif;
     font-weight: normal;
     color: #333;
 }

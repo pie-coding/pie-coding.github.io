@@ -1,0 +1,26 @@
+{
+  "name": "Pie Coding Collaborative",
+  "version": "0.2",
+  "homepage": "http://pie-coding.github.io",
+  "authors": [
+    "devinad@gmail.com"
+  ],
+  "description": "Scratch notes.",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "bootstrap": "~3.3.2",
+    "handlebars": "~2.0.0",
+    "grunt": "~0.4.5",
+    "jasmine": "~2.2.1"
+  }
+}
